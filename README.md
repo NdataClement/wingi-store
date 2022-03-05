@@ -34,8 +34,8 @@ Create a project directory under `XAMPP installation directory`/htdocs
 # 6. Dowload the system's code from Github
 This repository is a public. Clone it in your working directory. You must install git first.
 
-```
 You can run this command using Command Prompt or Windows Powershell
+```
 git clone https://github.com/NdataClement/wingi-store.git
 ```
 
