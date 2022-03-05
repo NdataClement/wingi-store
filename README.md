@@ -46,4 +46,4 @@ localhost/direcoryname/index.php
 ```
 
 # Link of the demo
-`[https://drive.google.com/file/d/12uz7Kol-A1NHkAZrAeSvCihpcf3C1SJH/view?usp=sharing](https://drive.google.com/file/d/12uz7Kol-A1NHkAZrAeSvCihpcf3C1SJH/view?usp=sharing)`
+[https://drive.google.com/file/d/12uz7Kol-A1NHkAZrAeSvCihpcf3C1SJH/view?usp=sharing](https://drive.google.com/file/d/12uz7Kol-A1NHkAZrAeSvCihpcf3C1SJH/view?usp=sharing)
