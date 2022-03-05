@@ -17,8 +17,7 @@ Complete installation
 
 
 # 2. Open XAMPP Control Panel
-Start Apache module
-Start MySQL module
+Start Apache and MySQL modules
 
 
 # 4. Access PHPMyAdmin
@@ -29,13 +28,14 @@ Import mysql file named `wingi.sql` from database directory.
 
 # 5. Working directory
 
-Create a project directory under `Xampp installation directory`/htdocs
+Create a project directory under `XAMPP installation directory`/htdocs
 
 
 # 6. Dowload the system's code from Github
-This repository is a public. Clone it in your working directory.
+This repository is a public. Clone it in your working directory. You must install git first.
 
 ```
+You can run this command using Command Prompt or Windows Powershell
 git clone https://github.com/NdataClement/wingi-store.git
 ```
 
@@ -46,4 +46,4 @@ localhost/direcoryname/index.php
 ```
 
 # Link of the demo
-`https://drive.google.com/file/d/12uz7Kol-A1NHkAZrAeSvCihpcf3C1SJH/view?usp=sharing`
+`[a link](https://drive.google.com/file/d/12uz7Kol-A1NHkAZrAeSvCihpcf3C1SJH/view?usp=sharing)`
